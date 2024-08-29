@@ -1,4 +1,5 @@
 // Navigation bar
+"use strict";
 const header = document.querySelector(".header");
 const nav = document.querySelector(".nav-list");
 const menuBtn = document.querySelector(".menu-btn");
